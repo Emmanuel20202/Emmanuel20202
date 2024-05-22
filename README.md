@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">Aspiring Cybersecurity Professional</h3>
-<img src="https://media.licdn.com/dms/image/D5616AQGbtBUoM5NXUw/profile-displaybackgroundimage-shrink_350_1400/0/1694133107734?e=1721865600&v=beta&t=amXMCuVeP1wyc6O5eXw7ZRmLBfGXpdEy6v4pzHUuWVI">
+<img src="https://www.canva.com/design/DAGF9Gtsk3o/PYu9Jdhtqv8VzGRQWCf10Q/edit?utm_content=DAGF9Gtsk3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 # 💫 About Me:
 🔭 I’m currently working on ROADTRIP PH<br><br>🌱 I’m currently learning Cybersecurity Penetration Testing<br><br>👨‍💻 All of my projects are available at https://www.emcodes.works/<br><br>⚡ Fun fact I am a ethical hacker
 
