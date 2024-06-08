@@ -3,7 +3,7 @@
 <img src="https://github.com/Emmanuel20202/FireTection2DGame/blob/main/Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.png?raw=true">
 # 💫 About Me:
 🔭 I’m currently working on ROADTRIP PH<br><br>🌱 I’m currently learning Cybersecurity Penetration Testing<br><br>👨‍💻 All of my projects are available at https://www.emcodes.works/<br><br>⚡ Fun fact I am a ethical hacker
-
+TryHackMe :<script src="https://tryhackme.com/badge/3097335"></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emman28/) 
