@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">Aspiring Cybersecurity Professional</h3>
+<h3 align="center">Cybersecurity Analyst | Penetration Tester</h3>
 <img src="https://github.com/Emmanuel20202/FireTection2DGame/blob/main/Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.png?raw=true">
 
 
