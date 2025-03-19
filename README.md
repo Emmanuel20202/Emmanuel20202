@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working at Nueva Technology as Full Stack Web Developer and Security Tester <br><br>🌱 I’m currently learning Cybersecurity Penetration Testing<br><br>👨‍💻 All of my projects are available at https://www.emcodes.works/<br><br>⚡ Fun fact I am a ethical hacker
+🔭 I’m currently working at Nueva Technology as Full Stack Web Developer and Security Tester <br><br>🌱 I’m currently learning Cybersecurity Penetration Testing<br><br><br><br>⚡ Fun fact I am a ethical hacker
 
 
 ## 🌐 Socials:
